@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Usama9821 
-- 👀 I’m interested in Mobile Application Development (Dart, Flutter) and Automation
-- 🌱 I’m currently learning Mobile Application Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me => urao8451gmail.com
 
 <!---
